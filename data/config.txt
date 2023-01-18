@@ -1,0 +1,1 @@
+{"token": "5915299998:AAGLa1ks7XpondExs0MmKx9CVHBlnJ7AnlE", "db_path": "DB\\db_e_w.db"}
