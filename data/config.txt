@@ -1,3 +1,0 @@
-{"token": "5915299998:AAGLa1ks7XpondExs0MmKx9CVHBlnJ7AnlE",
-          "payments_token": "1744374395:TEST:67205398b8c08f789164",
-          "db_path": "DB\\db_e_w.db"}
